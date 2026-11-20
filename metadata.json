@@ -1,0 +1,10 @@
+{
+  "name": "JARVIS — Assistant Personnel",
+  "description": "Assistant vocal intelligent JARVIS en français avec reconnaissance vocale, exécution de commandes et agent PC résident.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
